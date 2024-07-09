@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Naheeda and I am a computer science student at Colgate University. Here's some info about me!
+
+⚡ Work Experience:
+
+🌱 Interests: 
+
+
+
