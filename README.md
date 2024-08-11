@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm Naheeda and I am a fourth year computer science student. Here's some info about me!
+I'm a Computer Science student at Colgate University minoring in Creative Writing. My experience includes working as a Software Engineer Intern at LaunchBox @Trinity University, where I developed software solutions and collaborated on innovative projects.
 
-⚡ Work Experience:
+In addition to my technical skills, I'm CAPM certified, which supports my structured approach to project management. I've also served as a Program Support Intern for the Schuler Scholarship Foundation, where I led discussion panels, streamlined administrative tasks, and coordinated content and communication. 
 
-🌱 Interests: 
+Outside of my studies, and professional work, I enjoy hiking, baking and writing! I am enthusiastic about applying my skills in new opportunities.
 
 
 
